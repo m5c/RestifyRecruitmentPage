@@ -1,8 +1,8 @@
 site_name: McGill CS Study Recruitment
 site_url: https://www.cs.mcgill.ca/~mschie3/recruitment
 nav:
-    - Study Information: study-and-recruitment.md
-    - Legal Information: administrative-and-legal.md
+    - Participation: participation.md
+    - Administrative Information: administrative.md
 theme:
   name: material
   logo: assets/logo.png
