@@ -1,6 +1,7 @@
 site_name: McGill CS Study Recruitment
 site_url: https://www.cs.mcgill.ca/~mschie3/recruitment
 nav:
+    - Welcome: index.md
     - Participation: participation.md
     - Administrative Information: administrative.md
 theme:
