@@ -41,6 +41,7 @@ The latter is defined as: Either task completion or documented activity of at le
 
 ## How to apply
 
+ * Application closes July 9th 2022.
  * Download this text form and fill it our with your favourite text editor: <a href=../self-assessment.txt download>self-assessment.txt</a>
  * Send the filled out form to: [maximilian.schiedermeier@mcgill.ca](mailto:maximilian.schiedermeier@mcgill.ca)
     * Subject: ```RESTify Experiment```
