@@ -4,7 +4,7 @@
 
 ### Task Description
 
- * Participant will need to perform two software engineering tasks. 
+ * Participants will need to perform two software engineering tasks. 
     * One manual task, using the IDE *IntelliJ*.
     * One assisted task, using the software *TouchCORE*.
  * Participants have to watch provided educational material of a total of 45 minutes, which is considered part of the experiment activity.
@@ -43,7 +43,13 @@ The latter is defined as: Either task completion or documented activity of at le
 
  * Application closes July 9th 2022.
  * Download this text form and fill it our with your favourite text editor: <a href=../self-assessment.txt download>self-assessment.txt</a>
- * Send the filled out form to: [maximilian.schiedermeier@mcgill.ca](mailto:maximilian.schiedermeier@mcgill.ca)
+ * Send the filled out form to: <a href="mailto:maximilian.schiedermeier@mcgill.ca?subject=RESTify Experiment&body=Hello,%0D%0A
+%0D%0A
+I would like to participate in the RESTify Experiment.%0D%0A
+Please inform me if my application was considered for study participation.%0D%0AAttached is my filled out self-assessment form.%0D%0A
+%0D%0A
+Best,%0D%0A
+YOUR NAME">maximilian.schiedermeier@mcgill.ca</a>
     * Subject: ```RESTify Experiment```
     * Content:  
 ```
