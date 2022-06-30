@@ -12,7 +12,7 @@ Your responses remain completely anonymous to anyone outside the research staff 
 [ ] I have developed and published libraries Java libraries
 
 
-2) How proficient are you with Spring Boot ?
+2) How proficient are you with Spring Boot?
 [ ] I don’t know what it is or does
 [ ] I have already inspected software based on Spring Boot
 [ ] I have already used Spring Boot in a project
@@ -49,7 +49,7 @@ Your responses remain completely anonymous to anyone outside the research staff 
 [ ] I know how to construct and send HTTP queries
 [ ] I know the difference between HTTP and REST
 [ ] I have already developed a RESTful service
-[ ] I have already developed a RESTful service that currently is prod use
+[ ] I have already developed a RESTful service that currently is in prod use
 	 
 
 7) How much do you know about the singleton pattern
