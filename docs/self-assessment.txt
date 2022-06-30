@@ -23,7 +23,7 @@ Your responses remain completely anonymous to anyone outside the research staff 
 3) How proficient are you with the build system “Maven”?
 [ ] I have never used Maven
 [ ] I have worked with Maven projects
-[ ] I have modified existing Maven project configurations my needs
+[ ] I have modified existing Maven project configurations for my needs
 [ ] I have set up maven configurations from scratch
 [ ] I have developed and published maven artifacts myself.
 
