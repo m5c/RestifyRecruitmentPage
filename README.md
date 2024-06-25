@@ -1,6 +1,6 @@
 # RESTify Study Docs
 
-Sources for experiment recruitment page. The oginal recruitment page is deployed at [`https://www.cs.mcgill.ca/~mschie3/recruitment/`](https://www.cs.mcgill.ca/~mschie3/recruitment/).
+Sources for experiment recruitment page. The orginal recruitment page is deployed at [`https://www.cs.mcgill.ca/~mschie3/recruitment/`](https://www.cs.mcgill.ca/~mschie3/recruitment/).
 If you want to reuse the page sources, follow the *Usage* instructions below.
 
 ## Usage
