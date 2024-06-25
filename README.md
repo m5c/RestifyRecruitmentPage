@@ -4,8 +4,16 @@ Sources for experiment recruitment page
 
 ## Usage
 
+### Local Deployment
+
  * Start server: ```mkdocs serve```
- * Access docs: [http://127.0.0.1:8000/~mschie3/recruitment](http://127.0.0.1:8000/~mschie3/recruitment)
+ * Access docs: [http://127.0.0.1:8000/~mschie3/recruitment](http://127.0.0.1:8000/~mschie3/recruitment)  
+ (where `~mschie3` is your unix username)
+
+### Site Build
+
+ * `mkdocs build`
+ * `open site/index.hmtl'
 
 ## Internals
 

@@ -1,5 +1,6 @@
 site_name: McGill CS Study Recruitment
 site_url: https://www.cs.mcgill.ca/~mschie3/recruitment
+use_directory_urls: false
 nav:
     - Welcome: index.md
     - Participation: participation.md

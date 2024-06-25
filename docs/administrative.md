@@ -35,5 +35,5 @@ The following data may be **published**:
 
 ## Principal Investigator
 
-For any technical question or concern, please reach out to the principal investigator: [Maximilian Schiedermeier](https://www.cs.mcgill.ca/~mschie3/)
+For any technical question or concern, please reach out to the principal investigator: [Maximilian Schiedermeier](https://m5c.github.io/)
 
