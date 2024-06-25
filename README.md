@@ -1,23 +1,22 @@
 # RESTify Study Docs
 
-Sources for experiment recruitment page
+Sources for experiment recruitment page. The oginal recruitment page is deployed at [`https://www.cs.mcgill.ca/~mschie3/recruitment/`](https://www.cs.mcgill.ca/~mschie3/recruitment/).
+If you want to reuse the page sources, follow the *Usage* instructions below.
 
 ## Usage
 
-### Local Deployment
+Two options
+
+### Local Server Deployment
 
  * Start server: ```mkdocs serve```
  * Access docs: [http://127.0.0.1:8000/~mschie3/recruitment](http://127.0.0.1:8000/~mschie3/recruitment)  
  (where `~mschie3` is your unix username)
 
-### Site Build
+### Local Static Site Build
 
  * `mkdocs build`
  * `open site/index.hmtl'
-
-## Internals
-
- * In contrast to the actual study instructions this page is fully static / no generation of markdown based on control groups here.
 
 ## Other
 
