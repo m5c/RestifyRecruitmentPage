@@ -1,5 +1,9 @@
 # Study Recruitment
 
+## DISCLAIMER
+
+ > **THIS VERSION IS A STATIC SNAPSHOT, CREATED FOR THE MODELS ARTIFACT EVALUATION. UNLESS YOU ARE A REVIEWER, PLEASE [ACCESS THE ORIGINAL ARTIFACT](https://github.com/m5c/restifyrecruitment)**
+
 ## About
 
 McGill's *Software Composition and Reuse Laboratory* and *Distributed Systems Labs* are hiring participants for a controlled experiment in the context of software engineering.  

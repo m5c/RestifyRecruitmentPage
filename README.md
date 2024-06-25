@@ -1,6 +1,8 @@
 # RESTify Study Docs
 
-Sources for experiment recruitment page
+Sources for experiment recruitment page. These markdown sources compile to a classic HTML page.
+
+ > **THIS VERSION IS A STATIC SNAPSHOT, CREATED FOR THE MODELS ARTIFACT EVALUATION. UNLESS YOU ARE A REVIEWER, PLEASE [ACCESS THE ORIGINAL ARTIFACT](https://github.com/m5c/RestifyRecruitmentPage)**
 
 ## Usage
 
@@ -14,10 +16,6 @@ Sources for experiment recruitment page
 
  * `mkdocs build`
  * `open site/index.hmtl'
-
-## Internals
-
- * In contrast to the actual study instructions this page is fully static / no generation of markdown based on control groups here.
 
 ## Other
 
