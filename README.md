@@ -31,3 +31,11 @@ Sources for experiment recruitment page. These markdown sources compile to a cla
   --md-primary-fg-color--dark:  #ed1b2f;
 }
 ```
+
+## License
+
+This software is under open source [MIT License](LICENSE.txt).
+
+## Author
+
+Maximilian Schiedermeier: [https://github.com/m5c](https://github.com/m5c)
