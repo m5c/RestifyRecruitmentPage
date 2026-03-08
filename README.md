@@ -1,7 +1,7 @@
 # RESTify Study Docs
 
 Sources for experiment recruitment page. The orginal recruitment page is deployed at [`https://www.cs.mcgill.ca/~mschie3/recruitment/`](https://www.cs.mcgill.ca/~mschie3/recruitment/), but may eventually cede to exist (I am no longer a McGill employee).  
-For this purpose this github repo not only hosts sources but also [a recruitment page replica.](...)
+For this purpose this github repo not only hosts sources but also [a recruitment page replica.](https://m5c.github.io/RestifyRecruitmentPage/index.html)
 If you want to reuse the page sources, follow the *Usage* instructions below.
 
 ## Requirements
