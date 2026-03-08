@@ -1,0 +1,68 @@
+Please answer these short questions as honestly as possible.
+Higher experience does not necessarily have an impact on your chances of being selected for study participation.
+Only place a lowercase "x" between the "[ ]" that best fit your answer. Only select exactly one answer per question. Do not make any other changes to this document, for it will be processed automatically.
+Your responses remain completely anonymous to anyone outside the research staff and will not be used for any purpose other than this study and associated publications.
+
+
+1) How proficient are you with the programming language Java?
+[ ] I’ve never programmed in Java
+[ ] I’ve developed some simple programs in Java
+[ ] I use Java on a regular basis
+[ ] I have more than 5 years of programming experience with Java
+[ ] I have developed and published libraries Java libraries
+
+
+2) How proficient are you with Spring Boot?
+[ ] I don’t know what it is or does
+[ ] I have already inspected software based on Spring Boot
+[ ] I have already used Spring Boot in a project
+[ ] I know about advanced concepts such as Parameter mappings
+[ ] I have already modified the spring boot code base
+
+
+3) How proficient are you with the build system “Maven”?
+[ ] I have never used Maven
+[ ] I have worked with Maven projects
+[ ] I have modified existing Maven project configurations for my needs
+[ ] I have set up maven configurations from scratch
+[ ] I have developed and published maven artifacts myself.
+
+
+4) How proficient are you with the Modelling Software “TouchCORE”?
+[ ] I have never used TouchCORE
+[ ] I have inspected TouchCORE models on my machine
+[ ] I have developed simple models with TouchCORE
+[ ] I have used TouchCORE for concern based modelling
+[ ] I have contributed to the TouchCORE code base
+
+
+5) How proficient are you with the OS command line?
+[ ] I have never used the command line
+[ ] I can perform simple operations such as changing a directory or deleting a file
+[ ] I use the command line for repetitive tasks
+[ ] I have developed simple scripts
+[ ] I prefer the command line over my OS’s graphical interface
+
+
+6) How much do you know about HTTP and REST?
+[ ] I don’t know anything about HTTP and REST
+[ ] I know how to construct and send HTTP queries
+[ ] I know the difference between HTTP and REST
+[ ] I have already developed a RESTful service
+[ ] I have already developed a RESTful service that currently is in prod use
+	 
+
+7) How much do you know about the singleton pattern
+[ ] I don’t know what it is
+[ ] I know what it is but have never used it
+[ ] I have already used it in one of my projects
+[ ] I could verify a provided implementation	 
+[ ] I could implement it right away from scratch
+
+
+8) How much do you know about reflection
+[ ] I don’t know what reflection is
+[ ] I have heard of reflection
+[ ] I know what reflection is and when it is used
+[ ] I have already used reflection myself
+[ ] I have developed a library or framework that sets on reflection
